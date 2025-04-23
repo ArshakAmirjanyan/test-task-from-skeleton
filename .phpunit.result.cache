@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"MyBank\\CommissionTask\\Tests\\Unit\\MoneyTest::testConversionToSameCurrency":0.001,"MyBank\\CommissionTask\\Tests\\Unit\\MoneyTest::testConversionToAnotherCurrency":0}}
