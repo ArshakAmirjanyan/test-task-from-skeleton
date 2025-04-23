@@ -3,7 +3,8 @@
 IMPORTANT NOTES ABOUT THE PROJECT
 
 I used the skeleton provided by you, but upgraded php version to 8.1.32, hence some dependencies needed to be updated
-too. THE API PROVIDED FOR RATES DID NOT WORK, so I just hardcoded in a fake rate provider class... The interface can
+too.
+THE API PROVIDED FOR RATES DID NOT WORK!!!!!!!!!!!,  so I just hardcoded in a fake rate provider class... The interface can
 be extended to create another rate provider class to actually make a call to an API. I assure you that I can use curl 
 to make requests :D
 
@@ -21,6 +22,8 @@ in Chain of responsibility pattern, I feel the same too :)
 
 Those are ideas that came a bit later to me and I didn't feel like wasting too much time on refactoring the existing
 structure as I am already in the last day of the deadline :)
+
+CURRENTLY I USE FACTORY for creation, Bridge and Strategy for behavior :)
 
 ANOTHER FUN NOTE
 
