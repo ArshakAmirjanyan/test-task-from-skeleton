@@ -3,7 +3,9 @@
 IMPORTANT NOTES ABOUT THE PROJECT
 
 I used the skeleton provided by you, but upgraded php version to 8.1.32, hence some dependencies needed to be updated
-too
+too. THE API PROVIDED FOR RATES DID NOT WORK, so I just hardcoded in a fake rate provider class... The interface can
+be extended to create another rate provider class to actually make a call to an API. I assure you that I can use curl 
+to make requests :D
 
 NOTES ABOUT THE ARCHITECTURE
 
